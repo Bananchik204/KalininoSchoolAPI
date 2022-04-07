@@ -32,19 +32,15 @@ numpy==1.22.3
 opencv-python==4.5.5.64
 Pillow==9.1.0
 playsound==1.3.0
-PyAudio @ file:///C:/Users/Bananus/Desktop/Projects/Python/Assistant/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
-PyAutoGUI==0.9.53
 pygame==2.1.2
 PyGetWindow==0.0.9
 PyMsgBox==1.0.9
 pyowm==3.3.0
 pyperclip==1.8.2
-pypiwin32==223
 PyRect==0.2.0
 PyScreeze==0.1.28
 PySocks==1.7.1
 pyTelegramBotAPI==4.4.0
-pyttsx3==2.90
 pytweening==1.0.4
 pytz==2022.1
 pywebio==1.5.2
